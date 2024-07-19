@@ -6,10 +6,6 @@ Welcome to the SHARKS E-Shop, a simple command-line e-commerce application where
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Classes](#classes)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -34,3 +30,5 @@ To get started with the SHARKS E-Shop, you'll need Python installed on your syst
 
    ```bash
    git clone https://github.com/your-username/sharks-e-shop.git
+
+   
